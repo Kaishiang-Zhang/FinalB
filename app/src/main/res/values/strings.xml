@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalB</string>
+    <string name="default_location_id">[ID]</string>
+    <string name="default_location_longitude">[Longitude]</string>
+    <string name="default_location_latitude">[Latitude]</string>
+    <string name="default_location_name">[Name]</string>
+</resources>
